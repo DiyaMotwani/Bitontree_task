@@ -1,0 +1,9 @@
+# Ignore .env files
+.env
+
+# Other common ignores
+*.log
+*.bak
+node_modules/
+*.pyc
+__pycache__/
