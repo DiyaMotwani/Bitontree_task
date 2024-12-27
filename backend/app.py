@@ -4,7 +4,6 @@ from flask_cors import CORS
 from bs4.element import Comment
 import requests
 from bs4 import BeautifulSoup
-from openai import OpenAI
 import re
 from dotenv import load_dotenv
 load_dotenv()
